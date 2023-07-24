@@ -50,4 +50,8 @@ while continuar == 'x':
 
 
     else:
+<<<<<<< HEAD
         print('ERRO')
+=======
+        print('ERRO')
+>>>>>>> staging
